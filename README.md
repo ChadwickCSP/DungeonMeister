@@ -10,6 +10,7 @@ In this project, you will create a basic menu for an RPG game which allows you t
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
   * [Milestone 3](#milestone-3)
+  * [Milestone 4](#milestone-4)
 * [Grading](#grading)
   * [Computational Thinking](#computational-thinking)
   * [Computing, Programming and Practice](#computing-programming-and-practice)
@@ -20,7 +21,7 @@ In this project, you will create a basic menu for an RPG game which allows you t
 
 ### Sign up for Project
 
-Sign up for the project repository here: [TODO](TODO)
+Sign up for the project repository here: [https://classroom.github.com/a/WmEuPJBM](https://classroom.github.com/a/WmEuPJBM)
 
 After your repository has initialized it, clone it to your computer. I recommend
 putting it in your `ap-csp` directory.
